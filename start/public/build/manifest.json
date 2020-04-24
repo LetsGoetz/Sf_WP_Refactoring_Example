@@ -1,0 +1,23 @@
+{
+  "build/admin_article_form.css": "/build/admin_article_form.css",
+  "build/admin_article_form.js": "/build/admin_article_form.js",
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/article_show.css": "/build/article_show.css",
+  "build/article_show.js": "/build/article_show.js",
+  "build/vendors~admin_article_form.css": "/build/vendors~admin_article_form.css",
+  "build/vendors~admin_article_form.js": "/build/vendors~admin_article_form.js",
+  "build/vendors~admin_article_form~app.js": "/build/vendors~admin_article_form~app.js",
+  "build/vendors~admin_article_form~app~article_show.js": "/build/vendors~admin_article_form~app~article_show.js",
+  "build/vendors~app.js": "/build/vendors~app.js",
+  "build/fonts/fontawesome-webfont.ttf": "/build/fonts/fontawesome-webfont.1e59d233.ttf",
+  "build/fonts/fontawesome-webfont.woff2": "/build/fonts/fontawesome-webfont.20fd1704.woff2",
+  "build/fonts/fontawesome-webfont.eot": "/build/fonts/fontawesome-webfont.8b43027f.eot",
+  "build/fonts/fontawesome-webfont.woff": "/build/fonts/fontawesome-webfont.f691f37e.woff",
+  "build/images/alien-profile.png": "/build/images/alien-profile.cb1847c5.png",
+  "build/images/astronaut-profile.png": "/build/images/astronaut-profile.4ea32e5f.png",
+  "build/images/fontawesome-webfont.svg": "/build/images/fontawesome-webfont.c1e38fd9.svg",
+  "build/images/meteor-shower.jpg": "/build/images/meteor-shower.12556f85.jpg",
+  "build/images/space-ice.png": "/build/images/space-ice.49be273e.png",
+  "build/images/space-nav.jpg": "/build/images/space-nav.825635d2.jpg"
+}
